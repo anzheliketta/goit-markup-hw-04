@@ -149,7 +149,7 @@ ol {
   background: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
-  background-image: url(/images/people-office\ 1.jpg);
+  background-image: url(../images/people-office\ 1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -157,7 +157,7 @@ ol {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office.jpg);
+    url(../images/people-office\ 1.jpg);
   max-width: 1440px;
   margin: auto;
 }
@@ -323,6 +323,7 @@ ol {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    margin-bottom: 8px;
   }
 
   .team-list {
@@ -422,6 +423,7 @@ ol {
   color: #2e2f42;
   margin-bottom: 8px;
 }
+
 .portfolio-item-text {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -516,12 +518,7 @@ ol {
   
   
 .media-box {
-   width: 208px;
-  height: 80px;
-  margin-top: 110px;
-  margin-bottom: 122px;
-  margin-left: 120px;
-  margin-right: 120px;
+
 }
 
 .text-social-media {
